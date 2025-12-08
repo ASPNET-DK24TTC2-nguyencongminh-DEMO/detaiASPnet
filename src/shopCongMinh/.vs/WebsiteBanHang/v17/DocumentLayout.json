@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\_Doan\\github\\ASPNET-DK24TTC2-nguyencongminh-DEMO\\baocao\\src\\shopCongMinh\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|d:\\_doan\\github\\aspnet-dk24ttc2-nguyencongminh-demo\\baocao\\src\\shopcongminh\\websitebanhang\\views\\layout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2406F609-BEDD-49F9-9BA0-04DD459D5FA7}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\views\\layout\\adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\_Doan\\github\\ASPNET-DK24TTC2-nguyencongminh-DEMO\\baocao\\src\\shopCongMinh\\WebsiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "ToolTip": "D:\\_Doan\\github\\ASPNET-DK24TTC2-nguyencongminh-DEMO\\baocao\\src\\shopCongMinh\\WebsiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Layout\\AdminLayout.cshtml",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAANAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-08T07:47:02.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
